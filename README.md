@@ -12,16 +12,6 @@ This is my bot music
 - [NPM](https://www.npmjs.com/)
 - [FFMPEG](https://www.ffmpeg.org/)
 
-### Installation:
-
-```bash
-# Clone the repository
-git clone https://github.com/Jorisouuu/UwUMusic
-# Enter into the directory
-cd UwUMusic/
-# Install the modules
-npm install
-```
 
 ## Required permissions:
 
@@ -43,9 +33,5 @@ npm install pm2
 ```bash
 pm2 start index.js
 ```
-
-## Deploying commands:
-
-Before you can use the bots slash command you first need to add them to your Discord server. You can use the `!deploy` command to do so.
-After deploying the commands you should be able to see and access them by typing a slash
-
+## Objectif:
+The objective of having shared this project is to help you achieve yours without too much trouble I have not detailed how it works so that you can discover yourself
